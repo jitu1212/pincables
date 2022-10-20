@@ -4,10 +4,11 @@
 # mongodb url key :Change your Own or put that local url
 
 when i start frontend when and no data is avilabale 
-##screen shots
+## screen shots
 ![Web capture_20-10-2022_151326_localhost](https://user-images.githubusercontent.com/98046486/196917982-47e15776-c481-4e1b-8b29-cea207a530d3.jpeg)
 
 ## screen Shot
 
 ![Web capture_20-10-2022_151251_localhost](https://user-images.githubusercontent.com/98046486/196920799-fbeb4c5c-76f6-4ab9-a4c4-67e6d98949b2.jpeg)
-
+ ## screen Shot
+![Web capture_20-10-2022_151158_localhost](https://user-images.githubusercontent.com/98046486/196921198-afe26e70-c18b-4f22-ba9a-17436e03bee9.jpeg)
